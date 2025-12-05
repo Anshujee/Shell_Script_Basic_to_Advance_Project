@@ -1,0 +1,10 @@
+2024-01-15 10:23:45 INFO User login successful - user_id: 1001
+2024-01-15 10:24:12 ERROR Database connection failed - timeout
+2024-01-15 10:24:15 WARNING Retrying database connection
+2024-01-15 10:24:18 INFO Database connection established
+2024-01-15 10:25:30 ERROR Invalid API key provided
+2024-01-15 10:26:45 INFO User logout - user_id: 1001
+2024-01-15 10:27:12 CRITICAL System memory threshold exceeded
+2024-01-15 10:28:00 ERROR Failed to send email notification
+2024-01-15 10:28:30 WARNING Cache size approaching limit
+2024-01-15 10:29:15 INFO Scheduled backup completed successfully

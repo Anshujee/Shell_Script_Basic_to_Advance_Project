@@ -1,0 +1,157 @@
+Hostname: Anshus-MacBook-Air.local
+Uptime: 10:53  up 16 days, 22:04, 1 user, load averages: 1.45 1.52 1.73
+------------------------------------
+CPU Information:
+Apple M1
+CPU Cores: 8
+------------------------------------
+Memory Usage:
+Total Memory: 8192 MB
+Free Memory : 71 MB
+------------------------------------
+Disk Usage:
+Filesystem                                          Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1                                     228Gi    11Gi    81Gi    13%    451k  854M    0%   /
+devfs                                              210Ki   210Ki     0Bi   100%     726     0  100%   /dev
+/dev/disk3s6                                       228Gi   2.0Gi    81Gi     3%       2  854M    0%   /System/Volumes/VM
+/dev/disk3s2                                       228Gi   7.6Gi    81Gi     9%    1.3k  854M    0%   /System/Volumes/Preboot
+/dev/disk3s4                                       228Gi   4.0Mi    81Gi     1%      62  854M    0%   /System/Volumes/Update
+/dev/disk1s2                                       500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1                                       500Mi   5.7Mi   483Mi     2%      30  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                                       500Mi   712Ki   483Mi     1%      67  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5                                       228Gi   125Gi    81Gi    61%    666k  854M    0%   /System/Volumes/Data
+map auto_home                                        0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/Users/anshujee/Downloads/Visual Studio Code.app   228Gi   124Gi    84Gi    60%    729k  879M    0%   /private/var/folders/vz/gh9jhvxd4pzd5z_w4jqbs8480000gn/T/AppTranslocation/15073714-73B7-4936-BD86-062A70318DF3
+------------------------------------
+Top 5 Memory Consuming Processes:
+anshujee         55710   1.9  4.9 1892515584 409392   ??  S    Mon09AM   5:51.55 /Applications/Brave Browser.app/Contents/Frameworks/Brave Browser Framework.framework/Versions/142.1.84.139/Helpers/Brave Browser Helper (Renderer).app/Contents/MacOS/Brave Browser Helper (Renderer) --type=renderer --metrics-client-id=fd50c369-e767-4c58-80fc-b81562c852a7 --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=22 --time-ticks-at-unix-epoch=-1764411734733234 --launch-time-ticks=149212531522 --shared-files --metrics-shmem-handle=1752395122,r,6260927567233988189,8275335211248540861,2097152 --field-trial-handle=1718379636,r,18075009702596298299,13514897628338370810,262144 --variations-seed-version=main@edc443ad29c6d0e528817f2911733765b16d9f0b --trace-process-track-uuid=3190709006926792172 --seatbelt-client=163
+anshujee         75783   0.6  3.5 1626302272 297344   ??  S    10:13AM   0:23.27 /private/var/folders/vz/gh9jhvxd4pzd5z_w4jqbs8480000gn/T/AppTranslocation/15073714-73B7-4936-BD86-062A70318DF3/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-GB --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=/Users/anshujee/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,18071815652609046928,8589254752293573066,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+anshujee         75753  20.3  3.1 1626455728 261088   ??  S    10:12AM   2:54.44 /private/var/folders/vz/gh9jhvxd4pzd5z_w4jqbs8480000gn/T/AppTranslocation/15073714-73B7-4936-BD86-062A70318DF3/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/anshujee/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/private/var/folders/vz/gh9jhvxd4pzd5z_w4jqbs8480000gn/T/AppTranslocation/15073714-73B7-4936-BD86-062A70318DF3/d/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration, --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=67 --time-ticks-at-unix-epoch=-1763191219379569 --launch-time-ticks=161662698763 --shared-files --field-trial-handle=1718379636,r,18071815652609046928,8589254752293573066,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:19fdbefa-664c-4bf6-a3c4-adfa1275bc25 --seatbelt-client=56
+anshujee         55703   0.0  3.0 1892629344 249808   ??  S    Mon09AM   2:30.79 /Applications/Brave Browser.app/Contents/Frameworks/Brave Browser Framework.framework/Versions/142.1.84.139/Helpers/Brave Browser Helper (Renderer).app/Contents/MacOS/Brave Browser Helper (Renderer) --type=renderer --metrics-client-id=fd50c369-e767-4c58-80fc-b81562c852a7 --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=15 --time-ticks-at-unix-epoch=-1764411734733234 --launch-time-ticks=149208065006 --shared-files --metrics-shmem-handle=1752395122,r,16906317388451384870,2182631846979464954,2097152 --field-trial-handle=1718379636,r,18075009702596298299,13514897628338370810,262144 --variations-seed-version=main@edc443ad29c6d0e528817f2911733765b16d9f0b --trace-process-track-uuid=3190709000367499229 --seatbelt-client=122
+anshujee         55669   0.1  3.0 470172544 248752   ??  S    Mon09AM   5:05.54 /Applications/Brave Browser.app/Contents/MacOS/Brave Browser
+anshujee         68747   0.0  2.2 1890580912 186976   ??  S    11:27AM   0:54.51 /Applications/Brave Browser.app/Contents/Frameworks/Brave Browser Framework.framework/Versions/142.1.84.139/Helpers/Brave Browser Helper (Renderer).app/Contents/MacOS/Brave Browser Helper (Renderer) --type=renderer --metrics-client-id=fd50c369-e767-4c58-80fc-b81562c852a7 --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=64 --time-ticks-at-unix-epoch=-1764411734733234 --launch-time-ticks=156405056086 --shared-files --metrics-shmem-handle=1752395122,r,12421334874392753230,9363366962193356437,2097152 --field-trial-handle=1718379636,r,18075009702596298299,13514897628338370810,262144 --variations-seed-version=main@edc443ad29c6d0e528817f2911733765b16d9f0b --trace-process-track-uuid=3190709046282549830 --seatbelt-client=190
+------------------------------------
+Network Configuration:
+lo0: flags=8049<UP,LOOPBACK,RUNNING,MULTICAST> mtu 16384
+	options=1203<RXCSUM,TXCSUM,TXSTATUS,SW_TIMESTAMP>
+	inet 127.0.0.1 netmask 0xff000000
+	inet6 ::1 prefixlen 128 
+	inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 
+	nd6 options=201<PERFORMNUD,DAD>
+gif0: flags=8010<POINTOPOINT,MULTICAST> mtu 1280
+stf0: flags=0<> mtu 1280
+anpi1: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether a6:d4:d7:fe:30:26
+	media: none
+	status: inactive
+anpi0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether a6:d4:d7:fe:30:25
+	media: none
+	status: inactive
+en3: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether a6:d4:d7:fe:30:05
+	nd6 options=201<PERFORMNUD,DAD>
+	media: none
+	status: inactive
+en4: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether a6:d4:d7:fe:30:06
+	nd6 options=201<PERFORMNUD,DAD>
+	media: none
+	status: inactive
+en1: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 36:1d:78:46:7b:c0
+	media: autoselect <full-duplex>
+	status: inactive
+en2: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 36:1d:78:46:7b:c4
+	media: autoselect <full-duplex>
+	status: inactive
+bridge0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=63<RXCSUM,TXCSUM,TSO4,TSO6>
+	ether 36:1d:78:46:7b:c0
+	Configuration:
+		id 0:0:0:0:0:0 priority 0 hellotime 0 fwddelay 0
+		maxage 0 holdcnt 0 proto stp maxaddr 100 timeout 1200
+		root id 0:0:0:0:0:0 priority 0 ifcost 0 port 0
+		ipfilter disabled flags 0x0
+	member: en1 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 8 priority 0 path cost 0
+	member: en2 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 9 priority 0 path cost 0
+	nd6 options=201<PERFORMNUD,DAD>
+	media: <unknown type>
+	status: inactive
+ap1: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=6460<TSO4,TSO6,CHANNEL_IO,PARTIAL_CSUM,ZEROINVERT_CSUM>
+	ether fe:f8:ae:7f:57:d6
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect (none)
+	status: inactive
+en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=6460<TSO4,TSO6,CHANNEL_IO,PARTIAL_CSUM,ZEROINVERT_CSUM>
+	ether 46:c5:63:5f:6c:4d
+	inet6 fe80::1877:67c9:7c28:59e6%en0 prefixlen 64 secured scopeid 0xc 
+	inet6 2406:9e00:112f:d047:420:848b:4344:dabd prefixlen 64 autoconf secured 
+	inet6 2406:9e00:112f:d047:390d:900a:4d03:5569 prefixlen 64 autoconf temporary 
+	inet 192.168.1.33 netmask 0xffffff00 broadcast 192.168.1.255
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+awdl0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=6460<TSO4,TSO6,CHANNEL_IO,PARTIAL_CSUM,ZEROINVERT_CSUM>
+	ether ae:dc:ab:42:eb:38
+	inet6 fe80::acdc:abff:fe42:eb38%awdl0 prefixlen 64 scopeid 0xe 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+llw0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether ae:dc:ab:42:eb:38
+	inet6 fe80::acdc:abff:fe42:eb38%llw0 prefixlen 64 scopeid 0xf 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect (none)
+utun0: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1500
+	inet6 fe80::adb2:1cd7:d3de:9005%utun0 prefixlen 64 scopeid 0x10 
+	nd6 options=201<PERFORMNUD,DAD>
+utun1: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
+	inet6 fe80::5961:aeab:4097:96d7%utun1 prefixlen 64 scopeid 0x11 
+	nd6 options=201<PERFORMNUD,DAD>
+utun2: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 2000
+	inet6 fe80::af91:5fdb:eb13:4e78%utun2 prefixlen 64 scopeid 0x12 
+	nd6 options=201<PERFORMNUD,DAD>
+utun3: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1000
+	inet6 fe80::ce81:b1c:bd2c:69e%utun3 prefixlen 64 scopeid 0x13 
+	nd6 options=201<PERFORMNUD,DAD>
+en5: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=6464<VLAN_MTU,TSO4,TSO6,CHANNEL_IO,PARTIAL_CSUM,ZEROINVERT_CSUM>
+	ether 00:e0:4c:36:b7:01
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect (none)
+	status: inactive
+------------------------------------
+Listening Ports:
+tcp6       0      0  *.65190                *.*                    LISTEN     
+tcp4       0      0  *.65190                *.*                    LISTEN     
+tcp6       0      0  *.5000                 *.*                    LISTEN     
+tcp4       0      0  *.5000                 *.*                    LISTEN     
+tcp6       0      0  *.7000                 *.*                    LISTEN     
+tcp4       0      0  *.7000                 *.*                    LISTEN     
+tcp46      0      0  *.55251                *.*                    LISTEN     
+------------------------------------
+Recent System Logs (last 10 lines):
+Dec  2 08:30:08 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 08:46:57 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 09:04:57 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 09:16:01 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 09:33:09 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 09:53:57 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 10:11:51 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 10:22:18 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 10:35:18 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
+Dec  2 10:52:18 Anshus-MacBook-Air syslogd[554]: ASL Sender Statistics
