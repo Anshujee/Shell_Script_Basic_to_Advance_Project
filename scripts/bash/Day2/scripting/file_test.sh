@@ -82,3 +82,4 @@ if [ -d "$dir" ] || [ -r "$dir" ]; then
 else
     echo " Directory $dir neither exists nor is readable."
 fi
+# End of script
